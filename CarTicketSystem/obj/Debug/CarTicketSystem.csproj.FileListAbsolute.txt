@@ -1,0 +1,20 @@
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\bin\Debug\CarTicketSystem.exe.config
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\bin\Debug\CarTicketSystem.exe
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\bin\Debug\CarTicketSystem.pdb
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.csproj.AssemblyReference.cache
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.Form1.resources
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.Properties.Resources.resources
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.csproj.GenerateResource.cache
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.csproj.CoreCompileInputs.cache
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.exe
+D:\SETEC\Year 2\Semester1\C#\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.pdb
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\bin\Debug\CarTicketSystem.exe.config
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\bin\Debug\CarTicketSystem.exe
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\bin\Debug\CarTicketSystem.pdb
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.Form1.resources
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.Properties.Resources.resources
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.exe
+C:\Users\ASUS\Documents\CarTicketSystem\CarTicketSystem\CarTicketSystem\obj\Debug\CarTicketSystem.pdb
