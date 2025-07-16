@@ -1,0 +1,10 @@
+D:\New folder\bookingCar\Carparking\bin\Debug\Carparking.exe.config
+D:\New folder\bookingCar\Carparking\bin\Debug\Carparking.exe
+D:\New folder\bookingCar\Carparking\bin\Debug\Carparking.pdb
+D:\New folder\bookingCar\Carparking\obj\Debug\Carparking.csproj.AssemblyReference.cache
+D:\New folder\bookingCar\Carparking\obj\Debug\Carparking.Form1.resources
+D:\New folder\bookingCar\Carparking\obj\Debug\Carparking.Properties.Resources.resources
+D:\New folder\bookingCar\Carparking\obj\Debug\Carparking.csproj.GenerateResource.cache
+D:\New folder\bookingCar\Carparking\obj\Debug\Carparking.csproj.CoreCompileInputs.cache
+D:\New folder\bookingCar\Carparking\obj\Debug\Carparking.exe
+D:\New folder\bookingCar\Carparking\obj\Debug\Carparking.pdb
